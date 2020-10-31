@@ -1,0 +1,1 @@
+cmd_/home/gitfork/dpdk/x86_64-native-linuxapp-gcc/build/kernel/linux/kni/built-in.o :=  rm -f /home/gitfork/dpdk/x86_64-native-linuxapp-gcc/build/kernel/linux/kni/built-in.o; ar rcsD /home/gitfork/dpdk/x86_64-native-linuxapp-gcc/build/kernel/linux/kni/built-in.o
